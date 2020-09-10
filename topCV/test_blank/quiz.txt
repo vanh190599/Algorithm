@@ -1,0 +1,73 @@
+Câu 1: Liệt kê 3 lệnh linux có thể dùng để đọc nội dung file
+------------
+
+
+Câu 2: chmod 600 có nghĩa là gì?
+------------
+
+
+Câu 4: Phân biệt "git fetch" và "git pull"
+------------
+
+
+Câu 5:
+------------
+Phân biệt so sánh == và === trong PHP
+
+
+Câu 6:
+------------
+Trường hợp nào nên dùng method HTTP GET và khi nào nên dùng method HTTP POST
+
+
+
+Câu 7:
+------------
+Tác dụng và mô tả sơ qua cơ chế hoạt động của CSRF TOKEN trong laravel
+
+
+
+Câu 8:
+------------
+SQL Injection/XSS là gì? Cách để phòng tránh SQL Injection/ XSS?
+
+
+
+Câu 9:
+-------------
+Một website có lượng truy cập lớn và database có hàng triệu record. Làm cách nào để Tối ưu tốc độ truy cập web, tối ưu tốc độ truy vấn database.
+
+
+
+Câu 10: Bạn làm việc hiệu quả hơn khi làm nhóm hay làm độc lập? Tại sao?
+------
+
+Câu 11: Theo bạn thế nào là một team tốt? VD: Tất cả member đều là siêu nhân?
+------
+
+Câu 12: Nếu giao cho bạn làm một công nghệ mới mà bạn chưa từng làm trước đó, VD NodeJS bạn sẽ làm gì?
+------
+
+
+Câu 13: Theo bạn tốc độ phát triển sản phẩm & chất lượng sản phẩm cái nào quan trọng hơn?
+-------
+
+
+Câu 14: Bạn code có thường phát sinh bugs không, và bạn làm gì để hạn chế điều đó?
+--------
+
+
+Câu 15: Khi được giao một yêu cầu, ví dụ làm một website giống topcv.vn và bạn phải estimate thời gian làm nó, bạn sẽ làm thế nào?
+---------
+
+
+Câu 16: Bạn đã từng dùng TopCV chưa? Nếu được thay đổi một điều gì đó trên website, bạn sẽ muốn thay đổi cái gì & thay đổi như thế nào?
+----------
+
+
+Câu 17: Short-term & long-term goal của bạn trong công việc là và, bạn sẽ làm thế nào để đạt được nó?
+---------
+
+
+
+
